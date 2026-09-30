@@ -4561,7 +4561,7 @@
 			(uuid "16fafa1f-c462-4676-b428-e464cb438f0f")
 		)
 		(instances
-			(project "minisumogokufinalizado"
+			(project "minisumogokufinalizado 23 de septiembre"
 				(path "/834f7d7d-c66e-4bce-858a-db6e68b48347"
 					(reference "#PWR01")
 					(unit 1)
@@ -4639,7 +4639,7 @@
 			(uuid "5ec3e0f3-15cc-4f42-be61-e3ac201fd96a")
 		)
 		(instances
-			(project "minisumogokufinalizado"
+			(project "minisumogokufinalizado 23 de septiembre"
 				(path "/834f7d7d-c66e-4bce-858a-db6e68b48347"
 					(reference "#PWR011")
 					(unit 1)
@@ -4720,7 +4720,7 @@
 			(uuid "a65022a4-8e9f-4605-92c7-dd65d2047d52")
 		)
 		(instances
-			(project "minisumogokufinalizado"
+			(project "minisumogokufinalizado 23 de septiembre"
 				(path "/834f7d7d-c66e-4bce-858a-db6e68b48347"
 					(reference "C2")
 					(unit 1)
@@ -4798,7 +4798,7 @@
 			(uuid "0a09fe07-42d0-4d97-ac6f-8414c40c62b6")
 		)
 		(instances
-			(project "minisumogokufinalizado"
+			(project "minisumogokufinalizado 23 de septiembre"
 				(path "/834f7d7d-c66e-4bce-858a-db6e68b48347"
 					(reference "#PWR015")
 					(unit 1)
@@ -4876,7 +4876,7 @@
 			(uuid "4ba7998b-d544-4a30-a32e-a94acb11757f")
 		)
 		(instances
-			(project "minisumogokufinalizado"
+			(project "minisumogokufinalizado 23 de septiembre"
 				(path "/834f7d7d-c66e-4bce-858a-db6e68b48347"
 					(reference "#PWR08")
 					(unit 1)
@@ -4958,7 +4958,7 @@
 			(uuid "40b34d0a-0f61-4ee4-9809-347a4027c3f9")
 		)
 		(instances
-			(project "minisumogokufinalizado"
+			(project "minisumogokufinalizado 23 de septiembre"
 				(path "/834f7d7d-c66e-4bce-858a-db6e68b48347"
 					(reference "C4")
 					(unit 1)
@@ -5036,7 +5036,7 @@
 			(uuid "79d0715b-6662-4b00-b0a4-407c6f5e4a88")
 		)
 		(instances
-			(project "minisumogokufinalizado"
+			(project "minisumogokufinalizado 23 de septiembre"
 				(path "/834f7d7d-c66e-4bce-858a-db6e68b48347"
 					(reference "#PWR05")
 					(unit 1)
@@ -5116,7 +5116,7 @@
 			(uuid "85d85efc-43a1-40be-a548-9e1cf78e4d9d")
 		)
 		(instances
-			(project "minisumogokufinalizado"
+			(project "minisumogokufinalizado 23 de septiembre"
 				(path "/834f7d7d-c66e-4bce-858a-db6e68b48347"
 					(reference "J1")
 					(unit 1)
@@ -5194,7 +5194,7 @@
 			(uuid "bf6c7de5-8418-48d0-a8e2-9be9059bc2b1")
 		)
 		(instances
-			(project "minisumogokufinalizado"
+			(project "minisumogokufinalizado 23 de septiembre"
 				(path "/834f7d7d-c66e-4bce-858a-db6e68b48347"
 					(reference "#PWR03")
 					(unit 1)
@@ -5272,7 +5272,7 @@
 			(uuid "6059426e-e0b7-4260-b952-665ae77e063e")
 		)
 		(instances
-			(project "minisumogokufinalizado"
+			(project "minisumogokufinalizado 23 de septiembre"
 				(path "/834f7d7d-c66e-4bce-858a-db6e68b48347"
 					(reference "#PWR04")
 					(unit 1)
@@ -5358,7 +5358,7 @@
 			(uuid "2d8ed9ae-cfbf-459f-b086-646660ab451b")
 		)
 		(instances
-			(project "minisumogokufinalizado"
+			(project "minisumogokufinalizado 23 de septiembre"
 				(path "/834f7d7d-c66e-4bce-858a-db6e68b48347"
 					(reference "SW1")
 					(unit 1)
@@ -5440,7 +5440,7 @@
 			(uuid "468d2278-2324-40fb-9d5a-a736d83c05bb")
 		)
 		(instances
-			(project "minisumogokufinalizado"
+			(project "minisumogokufinalizado 23 de septiembre"
 				(path "/834f7d7d-c66e-4bce-858a-db6e68b48347"
 					(reference "R1")
 					(unit 1)
@@ -5522,7 +5522,7 @@
 			(uuid "2e097845-5b5f-401f-af21-3757d895a861")
 		)
 		(instances
-			(project "minisumogokufinalizado"
+			(project "minisumogokufinalizado 23 de septiembre"
 				(path "/834f7d7d-c66e-4bce-858a-db6e68b48347"
 					(reference "M1")
 					(unit 1)
@@ -5600,7 +5600,7 @@
 			(uuid "00a97ddb-7a7a-40c3-8b78-56f4c94cc010")
 		)
 		(instances
-			(project "minisumogokufinalizado"
+			(project "minisumogokufinalizado 23 de septiembre"
 				(path "/834f7d7d-c66e-4bce-858a-db6e68b48347"
 					(reference "#PWR016")
 					(unit 1)
@@ -5682,7 +5682,7 @@
 			(uuid "3886dd66-961f-4fe0-882b-1cfbd03b669f")
 		)
 		(instances
-			(project "minisumogokufinalizado"
+			(project "minisumogokufinalizado 23 de septiembre"
 				(path "/834f7d7d-c66e-4bce-858a-db6e68b48347"
 					(reference "C5")
 					(unit 1)
@@ -5764,7 +5764,7 @@
 			(uuid "999d0065-94fe-4061-8d63-77bdbefe4cb2")
 		)
 		(instances
-			(project "minisumogokufinalizado"
+			(project "minisumogokufinalizado 23 de septiembre"
 				(path "/834f7d7d-c66e-4bce-858a-db6e68b48347"
 					(reference "C6")
 					(unit 1)
@@ -5842,7 +5842,7 @@
 			(uuid "6f68074f-8e5d-464c-a534-a9bd6fa98ebe")
 		)
 		(instances
-			(project "minisumogokufinalizado"
+			(project "minisumogokufinalizado 23 de septiembre"
 				(path "/834f7d7d-c66e-4bce-858a-db6e68b48347"
 					(reference "#PWR07")
 					(unit 1)
@@ -5927,7 +5927,7 @@
 			(uuid "4ac2de92-6bfb-4ecc-8b81-b500f45af9ac")
 		)
 		(instances
-			(project "minisumogokufinalizado"
+			(project "minisumogokufinalizado 23 de septiembre"
 				(path "/834f7d7d-c66e-4bce-858a-db6e68b48347"
 					(reference "U2")
 					(unit 1)
@@ -6020,7 +6020,7 @@
 			(uuid "35519609-fb20-4ac9-bad2-d00981f6f0bc")
 		)
 		(instances
-			(project "minisumogokufinalizado"
+			(project "minisumogokufinalizado 23 de septiembre"
 				(path "/834f7d7d-c66e-4bce-858a-db6e68b48347"
 					(reference "D1")
 					(unit 1)
@@ -6106,7 +6106,7 @@
 			(uuid "8c750c27-a369-4cad-95d0-883f8ffa85ea")
 		)
 		(instances
-			(project "minisumogokufinalizado"
+			(project "minisumogokufinalizado 23 de septiembre"
 				(path "/834f7d7d-c66e-4bce-858a-db6e68b48347"
 					(reference "J2")
 					(unit 1)
@@ -6184,7 +6184,7 @@
 			(uuid "f9bf0a4d-80fc-4822-bafb-0d3cd988cde6")
 		)
 		(instances
-			(project "minisumogokufinalizado"
+			(project "minisumogokufinalizado 23 de septiembre"
 				(path "/834f7d7d-c66e-4bce-858a-db6e68b48347"
 					(reference "#PWR014")
 					(unit 1)
@@ -6262,7 +6262,7 @@
 			(uuid "b5f94f93-90f5-4189-819c-4282806d0a47")
 		)
 		(instances
-			(project "minisumogokufinalizado"
+			(project "minisumogokufinalizado 23 de septiembre"
 				(path "/834f7d7d-c66e-4bce-858a-db6e68b48347"
 					(reference "#PWR06")
 					(unit 1)
@@ -6429,7 +6429,7 @@
 			(uuid "73afa00f-0e47-489a-b7c8-3c0d49f22154")
 		)
 		(instances
-			(project "minisumogokufinalizado"
+			(project "minisumogokufinalizado 23 de septiembre"
 				(path "/834f7d7d-c66e-4bce-858a-db6e68b48347"
 					(reference "A1")
 					(unit 1)
@@ -6554,7 +6554,7 @@
 			(uuid "6cff5f5a-3e58-4eac-8b9e-5decea63c1b2")
 		)
 		(instances
-			(project "minisumogokufinalizado"
+			(project "minisumogokufinalizado 23 de septiembre"
 				(path "/834f7d7d-c66e-4bce-858a-db6e68b48347"
 					(reference "U1")
 					(unit 1)
@@ -6632,7 +6632,7 @@
 			(uuid "ce5e2db2-0493-4d4c-88f8-00bb23a362f9")
 		)
 		(instances
-			(project "minisumogokufinalizado"
+			(project "minisumogokufinalizado 23 de septiembre"
 				(path "/834f7d7d-c66e-4bce-858a-db6e68b48347"
 					(reference "#PWR013")
 					(unit 1)
@@ -6714,7 +6714,7 @@
 			(uuid "0e888071-56bb-48f3-8f4f-84b05ae50c9c")
 		)
 		(instances
-			(project "minisumogokufinalizado"
+			(project "minisumogokufinalizado 23 de septiembre"
 				(path "/834f7d7d-c66e-4bce-858a-db6e68b48347"
 					(reference "M2")
 					(unit 1)
@@ -6791,7 +6791,7 @@
 			(uuid "e15ac1da-0ffc-4f4b-aa16-4223776269ee")
 		)
 		(instances
-			(project "minisumogokufinalizado"
+			(project "minisumogokufinalizado 23 de septiembre"
 				(path "/834f7d7d-c66e-4bce-858a-db6e68b48347"
 					(reference "#PWR010")
 					(unit 1)
@@ -6869,7 +6869,7 @@
 			(uuid "25f0dafc-c09f-4ce1-998d-76560b35ac92")
 		)
 		(instances
-			(project "minisumogokufinalizado"
+			(project "minisumogokufinalizado 23 de septiembre"
 				(path "/834f7d7d-c66e-4bce-858a-db6e68b48347"
 					(reference "#PWR09")
 					(unit 1)
@@ -6951,7 +6951,7 @@
 			(uuid "13d3e02d-e902-48c7-a2be-a92867b021a8")
 		)
 		(instances
-			(project "minisumogokufinalizado"
+			(project "minisumogokufinalizado 23 de septiembre"
 				(path "/834f7d7d-c66e-4bce-858a-db6e68b48347"
 					(reference "C3")
 					(unit 1)
@@ -7028,7 +7028,7 @@
 			(uuid "1d53e15c-03fd-4fd6-866f-90faed11c081")
 		)
 		(instances
-			(project "minisumogokufinalizado"
+			(project "minisumogokufinalizado 23 de septiembre"
 				(path "/834f7d7d-c66e-4bce-858a-db6e68b48347"
 					(reference "#PWR012")
 					(unit 1)
@@ -7109,7 +7109,7 @@
 			(uuid "91711b97-318b-4d29-aefe-248df3cd20b9")
 		)
 		(instances
-			(project "minisumogokufinalizado"
+			(project "minisumogokufinalizado 23 de septiembre"
 				(path "/834f7d7d-c66e-4bce-858a-db6e68b48347"
 					(reference "C1")
 					(unit 1)
@@ -7192,7 +7192,7 @@
 			(uuid "85ae6a0a-81c6-40f0-a4bf-207861e5fbe4")
 		)
 		(instances
-			(project "minisumogokufinalizado"
+			(project "minisumogokufinalizado 23 de septiembre"
 				(path "/834f7d7d-c66e-4bce-858a-db6e68b48347"
 					(reference "J3")
 					(unit 1)
