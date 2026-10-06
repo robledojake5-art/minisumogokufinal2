@@ -1,5 +1,7 @@
-PROYECTO "ROBOT MINISUMO GOKU"
+# Proyecto "robot mini sumo Goku"
 
+## Descripcion
 Este proyecto del robot minisumo esta pensado para que luche contra otros minisumos en un area circular y mas especificame
 los tire fuera del area de combate
+
 
