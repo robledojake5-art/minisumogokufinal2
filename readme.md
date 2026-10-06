@@ -4,7 +4,7 @@
 Este proyecto del robot minisumo esta pensado para que luche contra otros minisumos en un area circular y mas especificame
 los tire fuera del area de combate
 
-##autores 
+## autores 
 
 .Tomas Santino Robledo 
 
@@ -24,7 +24,7 @@ fecha: abril 2026
 
 Estructura: Chasis diseñado para impresion 3D
 
-##objetivo del proyecto 
+## objetivo del proyecto 
 
 el objetivo es desarrollar un robot mini sumo capaz de competir de manera autonoma contra otro robot
 
@@ -42,5 +42,7 @@ el sistema debe ser capaz de:
 
 .mantenerse dentro del dehyo durante la competencia
 
-##
+## diseño del circuito 
+
+
 
